@@ -54,12 +54,13 @@ This project is useful for:
 ---
 
 ## 👨‍💻 Author
-**Your Name Here**
+**Harshil**
 
 ---
 
 ## 📅 Date
-April 2026
+02/04/2026
+
 
 ---
 

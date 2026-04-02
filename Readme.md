@@ -54,7 +54,7 @@ This project is useful for:
 ---
 
 ## 👨‍💻 Author
-**Harshil**
+**Harshil Prajapati**
 
 ---
 
